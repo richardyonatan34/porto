@@ -1,0 +1,6 @@
+# Porto
+Richard Yonatan (NIM 17221263) adalah mahasiswa semester 8 di Bina Sarana Informatika dengan IPK 3.63, yang memiliki minat dan keahlian di bidang pengembangan web, aplikasi, dan teknologi informasi secara umum. Selama perkuliahan, Richard telah mengerjakan berbagai proyek yang mencakup pembuatan website responsif, pengembangan aplikasi berbasis web, serta eksperimen dengan berbagai bahasa pemrograman dan framework modern.
+
+Repositori ini dibuat sebagai portofolio digital untuk menampilkan hasil karya, dokumentasi proyek, dan keterampilan teknis yang telah diperoleh, termasuk HTML, CSS, JavaScript, PHP, serta pengelolaan database. Setiap proyek disertai penjelasan singkat mengenai tujuan, teknologi yang digunakan, dan fitur utama yang diimplementasikan, sehingga memudahkan pihak lain untuk memahami kemampuan dan pengalaman yang dimiliki.
+
+Selain fokus pada pengembangan teknis, Richard juga aktif dalam memahami praktik terbaik dalam manajemen proyek, versi kontrol dengan Git, dan kolaborasi tim, yang menjadi bagian penting dalam persiapan karier profesional di bidang IT. Portofolio ini juga dapat digunakan sebagai referensi bagi calon perekrut, kolaborator, atau siapa pun yang ingin melihat kontribusi nyata Richard dalam dunia pengembangan perangkat lunak dan web.
